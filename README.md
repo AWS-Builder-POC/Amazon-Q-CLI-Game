@@ -60,7 +60,7 @@ A classic retro-style jungle driving game where you navigate a military jeep thr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jungle-drive.git
+   git clone https://github.com/yourusername/jungle-drive](https://github.com/AWS-Builder-POC/Amazon-Q-CLI-Game.git
    cd jungle-drive
    ```
 
@@ -173,9 +173,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/yourusername/jungle-drive/issues)
+- Open an [issue](https://github.com/AWS-Builder-POC/Amazon-Q-CLI-Game/issues)
 - Check the [FAQ](docs/FAQ.md)
-- Join our [community discussions](https://github.com/yourusername/jungle-drive/discussions)
+- Join our [community discussions](https://github.com/AWS-Builder-POC/Amazon-Q-CLI-Game/discussions)
 
 ---
 
