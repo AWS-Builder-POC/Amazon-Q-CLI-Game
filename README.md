@@ -170,12 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Retro art style influenced by 80s/90s arcade aesthetics
 - Military jeep design based on classic WWII vehicles
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an [issue](https://github.com/AWS-Builder-POC/Amazon-Q-CLI-Game/issues)
-- Check the [FAQ](docs/FAQ.md)
-- Join our [community discussions](https://github.com/AWS-Builder-POC/Amazon-Q-CLI-Game/discussions)
 
 ---
 
